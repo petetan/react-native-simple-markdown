@@ -15,7 +15,8 @@ const styles = {
     fontWeight: '500',
   },
   del: {
-    containerBackgroundColor: '#222222',
+    // this does not work
+    // containerBackgroundColor: '#222222',
   },
   em: {
     fontStyle: 'italic',
